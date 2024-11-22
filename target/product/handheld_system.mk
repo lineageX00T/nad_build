@@ -85,5 +85,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.carrier=unknown \
-    ro.config.notification_sound=Popcorn.ogg \
+    ro.config.notification_sound=no-pro.ogg \
     ro.config.alarm_alert=Bright_morning.ogg
